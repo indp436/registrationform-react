@@ -1,0 +1,45 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  height: 400px;
+  width: 400px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+.first-input {
+  margin-top: 10px;
+  height: 30px;
+  outline: 0;
+  padding: 10px;
+}
+.first-name {
+  margin-top: 10px;
+}
+.submit {
+  margin-top: 15px;
+  height: 30px;
+  width: 100px;
+  text-align: center;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
